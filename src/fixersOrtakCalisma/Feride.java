@@ -1,9 +1,7 @@
 package fixersOrtakCalisma;
 
-public class Fixers {
+public class Feride {
     public static void main(String[] args) {
-
-        System.out.println("19:01- ilkCalisma");
-
+        System.out.println("19:35-Feride branch");
     }
 }
