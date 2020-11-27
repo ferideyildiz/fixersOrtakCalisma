@@ -1,10 +1,7 @@
 package fixersOrtakCalisma;
 
-public class Fixers {
+public class Mucahit {
     public static void main(String[] args) {
-
-        System.out.println("19:01- ilkCalisma");
-
-
+        System.out.println("8:00 pm - 1.commit");
     }
 }
