@@ -1,10 +1,8 @@
 package fixersOrtakCalisma;
 
-public class Fixers {
+public class skorubranch {
     public static void main(String[] args) {
-
-        System.out.println("19:01- ilkCalisma");
-
-
+        System.out.println("27ksm test");
     }
+
 }
